@@ -13,7 +13,7 @@ code = code.replace(" ", "").replace("\n", "").replace("\r", "")
 pointer_index = 0
 
 i=0
-vars = []
+vars = [0]
 while i < len(code):
     
  
