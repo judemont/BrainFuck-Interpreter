@@ -5,4 +5,6 @@ Run <a href=https://fr.wikipedia.org/wiki/Brainfuck>BrainFuck</a> programs.
 
 `cd BrainFuck-Interpreter`
 
-`python3 main.py brainfuckfile.bf`
+`chmod +x main.py`
+
+`./main.py`
